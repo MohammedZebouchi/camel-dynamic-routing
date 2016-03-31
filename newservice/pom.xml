@@ -30,7 +30,7 @@
     <artifactId>newservice</artifactId>
     <packaging>bundle</packaging>
     <name>Dynamic Routing :: New Service</name>
-
+    <version>2.0.0</version>
     <dependencies>
         <dependency>
             <groupId>org.apache.camel</groupId>
